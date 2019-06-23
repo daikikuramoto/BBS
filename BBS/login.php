@@ -6,8 +6,6 @@ ini_set('display_errors','On'); //画面にエラーを表示させるか
 //post送信されていた場合
 if(!empty($_POST)){
 
-  //本来は最初にバリデーションを行うが、今回は省略
-
   //変数にユーザー情報を代入
   $email = $_POST['email'];
   $pass = $_POST['pass'];
