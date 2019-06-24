@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>CONTACT</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="contact.css">
     <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
   </head>
   <body>
@@ -12,7 +12,7 @@
       <nav id="top-nav">
         <ul>
           <li><a href="mypage.php">HOME</a></li>
-          <li><a href="contact.html">CONTACT</a></li>
+          <li><a href="contact.php">CONTACT</a></li>
         </ul>
       </nav>
     </header>
